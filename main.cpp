@@ -2,8 +2,7 @@
 
 int main()
 {
-    std::cout << "No, you're cute!\n \n";
-    std::cout << "Devon is MEGA cute!\n";
+    std::cout << "no no no";
     //commeeeent 1
     //comment 2
     return;
